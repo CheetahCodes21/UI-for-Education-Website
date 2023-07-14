@@ -1,0 +1,164 @@
+.jamaica{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-weight: 500;
+    color: rgb(255, 234, 77);
+}
+.imgnav{
+    height: 70px;
+    width: 70px;
+    padding: 5px;
+}
+.stynav1{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.stynav{
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: antiquewhite;
+    border-radius: 30px;
+}
+.stynav:hover{
+    color: gray;
+    border: solid 1px white;
+    border-radius: 30px;
+    background-color: white;
+    text-emphasis-color: gray;
+}
+.col{
+    color: antiquewhite;
+}
+.col:hover{
+    color: gray;
+}
+.back{
+    background: url("https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-green-education-blackboard-stereoscopic-image_20770.jpg") no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.inputmade{
+    color: black;
+    background: rgb(56, 56, 56);
+    align-items: center;
+  }
+  .inputmade::-webkit-input-placeholder {
+    /* WebKit browsers (e.g. Chrome, Safari) */
+    color: rgb(181, 171, 171);
+  }
+.maintext{
+color: antiquewhite;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 500;
+width: fit-content;
+}
+.form{
+top: 50%;
+width: 450px;
+height: fit-content;
+padding: 100px;
+padding-top: 90px;
+background-color: rgb(28, 27, 27);
+border: solid 10px rgb(82, 81, 81);
+border-radius: 50px;
+}
+.labels{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: beige;
+}
+.intro1{
+    color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 55px;
+}
+.intro2{
+    color: rgb(242, 205, 205);
+}
+.rank{
+    color: aliceblue;
+    font-size: 20px;
+}
+.ranks{
+    color: bisque;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.meter{
+    color: rgb(74, 236, 160);
+}
+.meterred{
+    color: rgb(224, 109, 109);
+}
+.abtbg{
+    /* background: url('https://i0.wp.com/boingboing.net/wp-content/uploads/2018/05/cool-background1.png?fit=1&resize=600%2C4000&ssl=1'); */
+
+}
+.abtbg-total{
+    background: url('https://static.vecteezy.com/system/resources/previews/001/227/759/original/abstract-modern-cool-geometric-pattern-background-vector.jpg');
+    background-size: cover;
+}   
+.org{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-size: 85px;
+    font-weight: 900;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(50, 49, 49);
+    opacity: 0.9;
+}
+.vision{
+    font-size: 40px;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(to right, gray,antiquewhite,gray);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.vision1{
+    color: rgb(76, 74, 74);
+    background: linear-gradient(to right, #ffbd5a, #f96161,#ee9755,#ffbd5a, #f96161,#ee9755);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.acc{
+    width: 600px;
+}
+.acchead{
+    color: rgb(2, 60, 147);
+    font-size: 20px;
+}
+.accon{
+    color: rgb(196, 44, 44);
+    font-size: 20px;
+}
+.car1{
+    color: aliceblue;
+}
+.car2{
+    color: aliceblue;
+}
+.car3{
+    color: aliceblue;
+}
+.caros{
+    width: 900px;
+}
+.course-title{
+    font-size: 30px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: fit-content;
+}
+.course-title:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: overline underline;
+}
+.img-card{
+    height: 225px;
+}
+.foot{
+    height: fit-content;
+    padding-top: 3px;
+    padding: 10px;
+}
